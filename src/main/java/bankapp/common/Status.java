@@ -1,2 +1,5 @@
-package bankapp.common;public enum Status {
+package bankapp.common;
+
+public enum Status {
+    ACCEPTED, DECLINE
 }
